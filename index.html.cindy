@@ -190,22 +190,22 @@ footer{
             <h2>Keahlian</h2>
 
             <div class="skill">
-                <div class="skill-name">HTML</div>
+                <div class="skill-name">mampu mengendalikan emosi</div>
                 <div class="bar"><div class="fill" style="width:90%"></div></div>
             </div>
 
             <div class="skill">
-                <div class="skill-name">CSS</div>
+                <div class="skill-name">mampu beradaptasi dengan cepat</div>
                 <div class="bar"><div class="fill" style="width:85%"></div></div>
             </div>
 
             <div class="skill">
-                <div class="skill-name">Canva</div>
+                <div class="skill-name">dance</div>
                 <div class="bar"><div class="fill" style="width:95%"></div></div>
             </div>
 
             <div class="skill">
-                <div class="skill-name">Microsoft Office</div>
+                <div class="skill-name">sabar menghadapi cobaan</div>
                 <div class="bar"><div class="fill" style="width:88%"></div></div>
             </div>
 
